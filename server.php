@@ -5,6 +5,8 @@
  *
  * @package  Laravel
  * @author   Taylor Otwell <taylorotwell@gmail.com>
+ * 
+ * Updated by tommy v1.1
  */
 
 $uri = urldecode(
