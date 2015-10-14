@@ -7,15 +7,9 @@
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  * 
  * Updated by tommy v1.2
-<<<<<<< HEAD
  * 
- * 1. chg in 9:48 am
-<<<<<<< HEAD
- * 2. chg in 9:53 am
-=======
->>>>>>> parent of 8c8aaeb... delete 3.php and chg server.php
-=======
->>>>>>> parent of d9dc992... 2.php 4.php removed, abc.php added, server.php changed
+ * 10:52am
+ * 
  */
 
 $uri = urldecode(
